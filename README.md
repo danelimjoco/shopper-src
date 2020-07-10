@@ -388,3 +388,7 @@ Depending on your system specifications (and the GPU memory), you may run out of
 1. Budget for baskets
 2. Capture heterogeneous patterns within baskets
 3. Non-myopic consumer
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9cc3df1d58ea4781f62f30bdbf20aebd20e783ef
