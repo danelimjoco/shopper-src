@@ -1,3 +1,13 @@
+# My proposed extensions to Shopper
+
+1. Department Popularity term
+2. Aisle popularity term
+
+## Exploratory Data Analysis
+
+![Screenshot](DepartmentPopularity.jpeg?raw=true)
+![Screenshot](AislePopularity.jpeg?raw=true)
+
 # Code for Shopper
 
 
@@ -383,8 +393,3 @@ The code has been specifically designed for the datasets described in the paper.
 
 Depending on your system specifications (and the GPU memory), you may run out of memory when the product `number_users x number_items` or `number_items x number_items` is above 10^9 or 10^10. In such case, try reducing the dataset size (e.g., by grouping items according to their category, or by removing low-frequency items or users).
 
-## Future work to implement
-
-1. Budget for baskets
-2. Capture heterogeneous patterns within baskets
-3. Non-myopic consumer
