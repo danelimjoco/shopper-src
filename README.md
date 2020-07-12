@@ -1,12 +1,12 @@
 # My proposed extensions to Shopper
 
 1. Department Popularity term
-2. Aisle popularity term
+2. Aisle Popularity term
 
 ## Exploratory Data Analysis
 
-![Screenshot](DepartmentPopularity.jpeg?raw=true)
-![Screenshot](AislePopularity.jpeg?raw=true)
+![Screenshot](plots/DepartmentPopularity.jpeg?raw=true)
+![Screenshot](plots/AislePopularity.jpeg?raw=true)
 
 # Code for Shopper
 
