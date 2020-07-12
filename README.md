@@ -5,8 +5,8 @@
 
 ## Exploratory Data Analysis
 
-![Screenshot](plots/DepartmentPopularity.jpeg?raw=true)
-![Screenshot](plots/AislePopularity.jpeg?raw=true)
+![Screenshot](DepartmentPopularity.jpeg?raw=true)
+![Screenshot](AislePopularity.jpeg?raw=true)
 
 # Code for Shopper
 
