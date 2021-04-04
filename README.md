@@ -1,16 +1,3 @@
-# My proposed extensions to Shopper
-
-To extend the Shopper model, I use [this Kaggle Dataset](https://www.kaggle.com/c/instacart-market-basket-analysis/data). Exploratory data analysis suggests:
- 1. Department Popularity, and 
- 2. Aisle Popularity
-
- may contribute to the predictive power of Shopper.
-
-## Exploratory Data Analysis
-
-![Screenshot](DepartmentPopularity.jpeg?raw=true)
-![Screenshot](AislePopularity.jpeg?raw=true)
-
 # Code for Shopper
 
 
